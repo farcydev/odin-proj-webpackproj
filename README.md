@@ -1,2 +1,2 @@
 # Restaurant Page
-A Odin project website for learning and practicing webpack
+My Proj A Odin project website for learning and practicing webpack
